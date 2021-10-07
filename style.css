@@ -4,3 +4,35 @@
     text-align: center;
     font-family: "Roboto Mono";
 }
+
+
+.container{
+
+    width:55rem;
+    height: 100%;
+    margin-top: 5rem;
+
+}
+
+#title{
+    font-size: 4rem;
+    font-weight: bolder;
+    margin:10px 0px 3rem 20px;
+}
+
+#text{
+    border-radius: 5px;
+    border:1px solid black;
+    font-size: 1.2rem;
+    margin-bottom: 1.2rem;
+}
+
+#check{
+
+    border:1px solid black;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    margin-bottom: 1.2rem;
+    
+}
+
