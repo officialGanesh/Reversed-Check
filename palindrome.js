@@ -1,0 +1,1 @@
+console.log("Palindrome in javascript 🔥");
